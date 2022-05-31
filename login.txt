@@ -1,0 +1,2 @@
+login_num = '123456'
+login_pw = 'abcdefgh'

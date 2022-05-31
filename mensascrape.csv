@@ -1,0 +1,441 @@
+,index,Datum,Artikel,Menge,Preis,Rabatt,Gesamt,Ort,Kasse,Typ,Bon-Nr.,Bonus,Betrag,PDF
+0,0,30.05.2022 14:06,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3903-808,,-1.35 €, PDF anzeigen
+1,0,30.05.2022 14:06,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3903-808,,-1.35 €, PDF anzeigen
+2,1,30.05.2022 13:07,Kalbscurrywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3508-602,,-4.94 €, PDF anzeigen
+3,1,30.05.2022 13:07,Pommes Frites Mensa,1,1.30 €,,1.30 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3508-602,,-4.94 €, PDF anzeigen
+4,1,30.05.2022 13:07,Schale 130g,1,1.64 €,,1.64 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3508-602,,-4.94 €, PDF anzeigen
+5,2,27.05.2022 13:56,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3507-663,,-3.50 €, PDF anzeigen
+6,2,27.05.2022 13:56,Pommes Frites Mensa,1,1.30 €,,1.30 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3507-663,,-3.50 €, PDF anzeigen
+7,2,27.05.2022 13:56,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3507-663,,-3.50 €, PDF anzeigen
+8,3,27.05.2022 13:56,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3507-664,,20.00 €,
+9,4,24.05.2022 13:15,"Baguette Brötchen 0,45 Mensa",1,0.45 €,,0.45 €,Küche Mensa Am Adenauer,61016 M I Linie 6 Theke,Verkauf,61016-3621-355,,-6.85 €, PDF anzeigen
+10,4,24.05.2022 13:15,"Tagesgericht 3,20 € Vegetarisch",2,3.20 €,,6.40 €,Küche Mensa Am Adenauer,61016 M I Linie 6 Theke,Verkauf,61016-3621-355,,-6.85 €, PDF anzeigen
+11,5,24.05.2022 13:05,"Tagesgericht 3,50 €",1,3.50 €,,3.50 €,Küche Mensa Am Adenauer,61016 M I Linie 6 Theke,Verkauf,61016-3621-317,,-3.50 €, PDF anzeigen
+12,6,23.05.2022 13:05,"Tagesgericht 3,20 € VEGAN",1,3.20 €,,3.20 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2620-408,,-3.20 €, PDF anzeigen
+13,6,23.05.2022 13:05,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2620-408,,-3.20 €, PDF anzeigen
+14,7,20.05.2022 13:01,"Tagesgericht 3,20 € VEGAN",1,3.20 €,,3.20 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2619-216,,-4.10 €, PDF anzeigen
+15,7,20.05.2022 13:01,"Salat 0,90 €",1,0.90 €,,0.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2619-216,,-4.10 €, PDF anzeigen
+16,7,20.05.2022 13:01,Gut und günstig Dessert,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2619-216,,-4.10 €, PDF anzeigen
+17,8,19.05.2022 13:00,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3897-680,,-1.35 €, PDF anzeigen
+18,8,19.05.2022 13:00,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3897-680,,-1.35 €, PDF anzeigen
+19,9,19.05.2022 12:22,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3502-411,,-4.84 €, PDF anzeigen
+20,9,19.05.2022 12:22,Pommes Frites Mensa,1,1.30 €,,1.30 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3502-411,,-4.84 €, PDF anzeigen
+21,9,19.05.2022 12:22,Schale 130g,1,1.34 €,,1.34 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3502-411,,-4.84 €, PDF anzeigen
+22,9,19.05.2022 12:22,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3502-411,,-4.84 €, PDF anzeigen
+23,10,19.05.2022 12:22,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3502-412,,20.00 €,
+24,11,17.05.2022 13:13,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2616-518,,-3.60 €, PDF anzeigen
+25,11,17.05.2022 13:13,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2616-518,,-3.60 €, PDF anzeigen
+26,11,17.05.2022 13:13,"Obst 0,70 €",1,0.70 €,,0.70 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2616-518,,-3.60 €, PDF anzeigen
+27,12,13.05.2022 13:11,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3892-572,,-1.35 €, PDF anzeigen
+28,12,13.05.2022 13:11,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3892-572,,-1.35 €, PDF anzeigen
+29,13,13.05.2022 12:38,"Tagesgericht 3,20 € Vegetarisch",1,3.20 €,,3.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3498-223,,-4.99 €, PDF anzeigen
+30,13,13.05.2022 12:38,Schale 130g,1,1.79 €,,1.79 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3498-223,,-4.99 €, PDF anzeigen
+31,14,10.05.2022 13:21,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61013 Cafeteria,Verkauf,61013-3460-92,,-1.35 €, PDF anzeigen
+32,14,10.05.2022 13:21,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61013 Cafeteria,Verkauf,61013-3460-92,,-1.35 €, PDF anzeigen
+33,15,10.05.2022 13:04,"Tagesgericht 3,20 € Vegetarisch",1,3.20 €,,3.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3495-512,,-4.80 €, PDF anzeigen
+34,15,10.05.2022 13:04,Schale 130g,1,1.60 €,,1.60 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3495-512,,-4.80 €, PDF anzeigen
+35,16,10.05.2022 13:04,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3495-513,,20.00 €,
+36,17,09.05.2022 13:40,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3888-815,,-2.70 €, PDF anzeigen
+37,17,09.05.2022 13:40,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3888-815,,-2.70 €, PDF anzeigen
+38,17,09.05.2022 13:40,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3888-815,,-2.70 €, PDF anzeigen
+39,17,09.05.2022 13:40,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3888-815,,-2.70 €, PDF anzeigen
+40,18,09.05.2022 12:59,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2610-412,,-2.90 €, PDF anzeigen
+41,19,06.05.2022 15:05,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3887-824,,-2.85 €, PDF anzeigen
+42,19,06.05.2022 15:05,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3887-824,,-2.85 €, PDF anzeigen
+43,19,06.05.2022 15:05,"Belegte Brötchen 1,50 €",1,1.50 €,,1.50 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3887-824,,-2.85 €, PDF anzeigen
+44,20,05.05.2022 12:56,"Pizza VEGAN 4,05 €",1,4.05 €,,4.05 €,Pizzawerk,61017 Pizzawerk,Verkauf,61017-1050-259,,-4.05 €, PDF anzeigen
+45,21,04.05.2022 13:42,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3885-837,,-1.35 €, PDF anzeigen
+46,21,04.05.2022 13:42,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3885-837,,-1.35 €, PDF anzeigen
+47,22,04.05.2022 13:42,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3885-838,,20.00 €,
+48,23,04.05.2022 13:00,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2490-532,,-2.60 €, PDF anzeigen
+49,23,04.05.2022 13:00,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2490-532,,-2.60 €, PDF anzeigen
+50,24,03.05.2022 12:57,"Tagesgericht 2,90 € VEGAN",2,2.90 €,,5.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2606-382,,-5.80 €, PDF anzeigen
+51,24,03.05.2022 12:57,Gut und günstig Salat,2,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2606-382,,-5.80 €, PDF anzeigen
+52,25,02.05.2022 13:41,Caffe Latte Chicco,1,2.90 €,,2.90 €,Studentenwerk HV,61088 Chicco Cafebar A7,Verkauf,61088-3244-100,,-3.70 €,
+53,25,02.05.2022 13:41,Sojadrink Chicco,1,0.80 €,,0.80 €,Studentenwerk HV,61088 Chicco Cafebar A7,Verkauf,61088-3244-100,,-3.70 €,
+54,26,02.05.2022 12:55,"Tagesgericht 3,20 € VEGAN",1,3.20 €,,3.20 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2605-366,,-5.50 €, PDF anzeigen
+55,26,02.05.2022 12:55,"Dessert im Becher 0,65 €",1,0.65 €,,0.65 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2605-366,,-5.50 €, PDF anzeigen
+56,26,02.05.2022 12:55,TopFit,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2605-366,,-5.50 €, PDF anzeigen
+57,26,02.05.2022 12:55,"Pfand + 0,25 €",1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2605-366,,-5.50 €, PDF anzeigen
+58,27,29.04.2022 13:08,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2604-261,,-2.90 €, PDF anzeigen
+59,27,29.04.2022 13:08,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2604-261,,-2.90 €, PDF anzeigen
+60,28,29.04.2022 13:08,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Karte,61003-2604-262,,20.00 €,
+61,29,28.04.2022 13:13,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2603-672,,-3.20 €, PDF anzeigen
+62,29,28.04.2022 13:13,"Tagesgericht 3,20 € VEGAN",1,3.20 €,,3.20 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2603-672,,-3.20 €, PDF anzeigen
+63,30,27.04.2022 12:52,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2485-553,,-2.60 €, PDF anzeigen
+64,30,27.04.2022 12:52,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2485-553,,-2.60 €, PDF anzeigen
+65,31,26.04.2022 13:19,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3485-491,,-4.35 €, PDF anzeigen
+66,31,26.04.2022 13:19,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3485-491,,-4.35 €, PDF anzeigen
+67,31,26.04.2022 13:19,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3485-491,,-4.35 €, PDF anzeigen
+68,31,26.04.2022 13:19,Schale 130g,1,0.95 €,,0.95 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3485-491,,-4.35 €, PDF anzeigen
+69,32,25.04.2022 13:54,"Dessert im Becher 0,65 €",1,0.65 €,,0.65 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2600-608,,-6.45 €, PDF anzeigen
+70,32,25.04.2022 13:54,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2600-608,,-6.45 €, PDF anzeigen
+71,32,25.04.2022 13:54,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2600-608,,-6.45 €, PDF anzeigen
+72,32,25.04.2022 13:54,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2600-608,,-6.45 €, PDF anzeigen
+73,33,22.04.2022 12:30,"Baguette Brötchen 0,45 Mensa",1,0.45 €,,0.45 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3120-177,,-1.21 €, PDF anzeigen
+74,33,22.04.2022 12:30,Teller 545g,1,0.76 €,,0.76 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3120-177,,-1.21 €, PDF anzeigen
+75,34,22.04.2022 12:10,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3483-318,,-3.88 €, PDF anzeigen
+76,34,22.04.2022 12:10,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3483-318,,-3.88 €, PDF anzeigen
+77,34,22.04.2022 12:10,Schale 130g,1,0.68 €,,0.68 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3483-318,,-3.88 €, PDF anzeigen
+78,35,22.04.2022 12:10,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3483-319,,20.00 €,
+79,36,20.04.2022 14:58,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+80,36,20.04.2022 14:58,Sprite,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+81,36,20.04.2022 14:58,"Pfand + 0,25 €",1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+82,36,20.04.2022 14:58,Sprite,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+83,36,20.04.2022 14:58,"Pfand + 0,25 €",1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+84,36,20.04.2022 14:58,Rothaus Tannenzäpfle,1,1.60 €,,1.60 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+85,36,20.04.2022 14:58,"Pfand + 0,08 €",1,0.08 €,,0.08 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+86,36,20.04.2022 14:58,Rothaus Tannenzäpfle,1,1.60 €,,1.60 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+87,36,20.04.2022 14:58,"Pfand + 0,08 €",1,0.08 €,,0.08 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3875-729,,-7.06 €, PDF anzeigen
+88,37,20.04.2022 13:18,"Tagesgericht 3,20 € VEGAN",1,3.20 €,,3.20 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2597-392,,-3.85 €, PDF anzeigen
+89,37,20.04.2022 13:18,"Dessert im Becher 0,65 €",1,0.65 €,,0.65 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2597-392,,-3.85 €, PDF anzeigen
+90,37,20.04.2022 13:18,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2597-392,,-3.85 €, PDF anzeigen
+91,38,31.03.2022 13:18,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3469-428,,-4.60 €, PDF anzeigen
+92,38,31.03.2022 13:18,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3469-428,,-4.60 €, PDF anzeigen
+93,38,31.03.2022 13:18,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3469-428,,-4.60 €, PDF anzeigen
+94,38,31.03.2022 13:18,Schale 130g,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3469-428,,-4.60 €, PDF anzeigen
+95,39,30.03.2022 13:05,"Hauptkomponente 2,90 €",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2584-185,,-3.65 €, PDF anzeigen
+96,39,30.03.2022 13:05,"Dessert 0,75 €",1,0.75 €,,0.75 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2584-185,,-3.65 €, PDF anzeigen
+97,40,30.03.2022 13:05,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Karte,61003-2584-186,,20.00 €,
+98,41,29.03.2022 13:07,"Hauptkomponente 2,90 €",2,2.90 €,,5.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2583-317,,-7.15 €, PDF anzeigen
+99,41,29.03.2022 13:07,Mineralwasser Peterstaler Classic,1,1.10 €,,1.10 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2583-317,,-7.15 €, PDF anzeigen
+100,41,29.03.2022 13:07,"Pfand + 0,25 €",1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2583-317,,-7.15 €, PDF anzeigen
+101,42,29.03.2022 10:05,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3861-112,,-1.20 €, PDF anzeigen
+102,42,29.03.2022 10:05,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3861-112,,-1.20 €, PDF anzeigen
+103,42,29.03.2022 10:05,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3861-112,,-1.20 €, PDF anzeigen
+104,43,28.03.2022 13:56,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3860-587,,-1.20 €, PDF anzeigen
+105,43,28.03.2022 13:56,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3860-587,,-1.20 €, PDF anzeigen
+106,43,28.03.2022 13:56,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3860-587,,-1.20 €, PDF anzeigen
+107,44,28.03.2022 13:07,Teller 545g,1,1.79 €,,1.79 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3103-163,,-2.24 €, PDF anzeigen
+108,44,28.03.2022 13:07,"Baguette Brötchen 0,45 Mensa",1,0.45 €,,0.45 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3103-163,,-2.24 €, PDF anzeigen
+109,45,28.03.2022 13:07,"Baguette Brötchen 0,45 Mensa",1,0.45 €,,0.45 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3103-162,,-2.08 €, PDF anzeigen
+110,45,28.03.2022 13:07,Teller 545g,1,1.63 €,,1.63 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3103-162,,-2.08 €, PDF anzeigen
+111,46,28.03.2022 13:02,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2582-258,,-2.90 €, PDF anzeigen
+112,47,28.03.2022 09:29,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3860-69,,-1.20 €, PDF anzeigen
+113,47,28.03.2022 09:29,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3860-69,,-1.20 €, PDF anzeigen
+114,47,28.03.2022 09:29,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3860-69,,-1.20 €, PDF anzeigen
+115,48,25.03.2022 14:01,Kalbscurrywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3465-528,,-3.60 €, PDF anzeigen
+116,48,25.03.2022 14:01,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3465-528,,-3.60 €, PDF anzeigen
+117,48,25.03.2022 14:01,"Brot 0,20 € Mensa",2,0.20 €,,0.40 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3465-528,,-3.60 €, PDF anzeigen
+118,49,25.03.2022 14:01,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3465-529,,20.00 €,
+119,50,24.03.2022 13:00,"Pommes Frites/Spätzle 0,95 €",2,0.95 €,,1.90 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3180-234,,-4.30 €, PDF anzeigen
+120,50,24.03.2022 13:00,"Gemüsebeilage 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3180-234,,-4.30 €, PDF anzeigen
+121,50,24.03.2022 13:00,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3180-234,,-4.30 €, PDF anzeigen
+122,51,24.03.2022 09:36,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3858-78,,-1.20 €, PDF anzeigen
+123,51,24.03.2022 09:36,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3858-78,,-1.20 €, PDF anzeigen
+124,51,24.03.2022 09:36,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3858-78,,-1.20 €, PDF anzeigen
+125,52,23.03.2022 13:08,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2462-581,,-2.60 €, PDF anzeigen
+126,52,23.03.2022 13:08,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2462-581,,-2.60 €, PDF anzeigen
+127,53,23.03.2022 09:37,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3857-80,,-2.00 €, PDF anzeigen
+128,53,23.03.2022 09:37,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3857-80,,-2.00 €, PDF anzeigen
+129,53,23.03.2022 09:37,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3857-80,,-2.00 €, PDF anzeigen
+130,53,23.03.2022 09:37,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3857-80,,-2.00 €, PDF anzeigen
+131,54,22.03.2022 13:40,Studentenfutter,1,0.95 €,,0.95 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-604,,-2.15 €, PDF anzeigen
+132,54,22.03.2022 13:40,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-604,,-2.15 €, PDF anzeigen
+133,54,22.03.2022 13:40,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-604,,-2.15 €, PDF anzeigen
+134,54,22.03.2022 13:40,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-604,,-2.15 €, PDF anzeigen
+135,55,22.03.2022 13:04,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3462-413,,-3.40 €, PDF anzeigen
+136,55,22.03.2022 13:04,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3462-413,,-3.40 €, PDF anzeigen
+137,55,22.03.2022 13:04,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3462-413,,-3.40 €, PDF anzeigen
+138,56,22.03.2022 09:46,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-93,,-4.55 €, PDF anzeigen
+139,56,22.03.2022 09:46,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-93,,-4.55 €, PDF anzeigen
+140,56,22.03.2022 09:46,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-93,,-4.55 €, PDF anzeigen
+141,56,22.03.2022 09:46,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-93,,-4.55 €, PDF anzeigen
+142,56,22.03.2022 09:46,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-93,,-4.55 €, PDF anzeigen
+143,56,22.03.2022 09:46,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3856-93,,-4.55 €, PDF anzeigen
+144,57,22.03.2022 09:46,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3856-94,,20.00 €,
+145,58,21.03.2022 13:46,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-633,,-2.55 €, PDF anzeigen
+146,58,21.03.2022 13:46,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-633,,-2.55 €, PDF anzeigen
+147,58,21.03.2022 13:46,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-633,,-2.55 €, PDF anzeigen
+148,58,21.03.2022 13:46,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-633,,-2.55 €, PDF anzeigen
+149,58,21.03.2022 13:46,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-633,,-2.55 €, PDF anzeigen
+150,59,21.03.2022 13:07,"Kartoffeln/Reis 0,75 €",1,0.75 €,,0.75 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3177-399,,-2.35 €, PDF anzeigen
+151,59,21.03.2022 13:07,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3177-399,,-2.35 €, PDF anzeigen
+152,59,21.03.2022 13:07,"Gemüsebeilage 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3177-399,,-2.35 €, PDF anzeigen
+153,60,21.03.2022 09:37,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-96,,-2.55 €, PDF anzeigen
+154,60,21.03.2022 09:37,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-96,,-2.55 €, PDF anzeigen
+155,60,21.03.2022 09:37,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-96,,-2.55 €, PDF anzeigen
+156,60,21.03.2022 09:37,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-96,,-2.55 €, PDF anzeigen
+157,60,21.03.2022 09:37,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3855-96,,-2.55 €, PDF anzeigen
+158,61,18.03.2022 13:00,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3460-314,,-3.40 €, PDF anzeigen
+159,61,18.03.2022 13:00,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3460-314,,-3.40 €, PDF anzeigen
+160,61,18.03.2022 13:00,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3460-314,,-3.40 €, PDF anzeigen
+161,62,18.03.2022 09:36,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3854-59,,-1.20 €, PDF anzeigen
+162,62,18.03.2022 09:36,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3854-59,,-1.20 €, PDF anzeigen
+163,62,18.03.2022 09:36,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3854-59,,-1.20 €, PDF anzeigen
+164,63,17.03.2022 12:19,"Dessert 0,75 €",1,0.75 €,,0.75 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2575-241,,-3.65 €, PDF anzeigen
+165,63,17.03.2022 12:19,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2575-241,,-3.65 €, PDF anzeigen
+166,63,17.03.2022 12:19,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2575-241,,-3.65 €, PDF anzeigen
+167,64,16.03.2022 13:05,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2457-522,,-2.60 €, PDF anzeigen
+168,64,16.03.2022 13:05,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2457-522,,-2.60 €, PDF anzeigen
+169,65,16.03.2022 13:05,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Karte,61015-2457-523,,20.00 €,
+170,66,16.03.2022 09:37,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3852-87,,-4.55 €, PDF anzeigen
+171,66,16.03.2022 09:37,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3852-87,,-4.55 €, PDF anzeigen
+172,66,16.03.2022 09:37,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3852-87,,-4.55 €, PDF anzeigen
+173,66,16.03.2022 09:37,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3852-87,,-4.55 €, PDF anzeigen
+174,66,16.03.2022 09:37,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3852-87,,-4.55 €, PDF anzeigen
+175,66,16.03.2022 09:37,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3852-87,,-4.55 €, PDF anzeigen
+176,67,15.03.2022 14:51,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3851-658,,-1.35 €, PDF anzeigen
+177,67,15.03.2022 14:51,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3851-658,,-1.35 €, PDF anzeigen
+178,68,15.03.2022 13:15,"Pommes Frites/Spätzle 0,95 €",2,0.95 €,,1.90 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3173-167,,-2.70 €, PDF anzeigen
+179,68,15.03.2022 13:15,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61008 M I Linie 5 V,Verkauf,61008-3173-167,,-2.70 €, PDF anzeigen
+180,69,15.03.2022 13:11,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2573-550,,-2.90 €, PDF anzeigen
+181,69,15.03.2022 13:11,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2573-550,,-2.90 €, PDF anzeigen
+182,70,14.03.2022 13:39,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-620,,-1.20 €, PDF anzeigen
+183,70,14.03.2022 13:39,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-620,,-1.20 €, PDF anzeigen
+184,70,14.03.2022 13:39,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-620,,-1.20 €, PDF anzeigen
+185,71,14.03.2022 13:03,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3456-442,,-4.96 €, PDF anzeigen
+186,71,14.03.2022 13:03,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3456-442,,-4.96 €, PDF anzeigen
+187,71,14.03.2022 13:03,Schale 130g,1,1.76 €,,1.76 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3456-442,,-4.96 €, PDF anzeigen
+188,72,14.03.2022 13:03,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3456-443,,20.00 €,
+189,73,14.03.2022 09:53,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-87,,-2.80 €, PDF anzeigen
+190,73,14.03.2022 09:53,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-87,,-2.80 €, PDF anzeigen
+191,73,14.03.2022 09:53,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-87,,-2.80 €, PDF anzeigen
+192,73,14.03.2022 09:53,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3850-87,,-2.80 €, PDF anzeigen
+193,74,11.03.2022 12:59,"Pommes Frites/Spätzle 0,95 €",3,0.95 €,,2.85 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2571-283,,-3.65 €, PDF anzeigen
+194,74,11.03.2022 12:59,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2571-283,,-3.65 €, PDF anzeigen
+195,75,11.03.2022 09:40,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3849-81,,-3.85 €, PDF anzeigen
+196,75,11.03.2022 09:40,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3849-81,,-3.85 €, PDF anzeigen
+197,75,11.03.2022 09:40,Vegane Kirschtasche TK,1,1.30 €,,1.30 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3849-81,,-3.85 €, PDF anzeigen
+198,75,11.03.2022 09:40,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3849-81,,-3.85 €, PDF anzeigen
+199,75,11.03.2022 09:40,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3849-81,,-3.85 €, PDF anzeigen
+200,75,11.03.2022 09:40,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3849-81,,-3.85 €, PDF anzeigen
+201,76,10.03.2022 13:12,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3454-503,,-3.40 €, PDF anzeigen
+202,76,10.03.2022 13:12,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3454-503,,-3.40 €, PDF anzeigen
+203,76,10.03.2022 13:12,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3454-503,,-3.40 €, PDF anzeigen
+204,77,10.03.2022 09:38,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3848-80,,-2.45 €, PDF anzeigen
+205,77,10.03.2022 09:38,Bio Cappuccino/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3848-80,,-2.45 €, PDF anzeigen
+206,77,10.03.2022 09:38,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3848-80,,-2.45 €, PDF anzeigen
+207,78,10.03.2022 09:37,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3848-78,,-2.15 €, PDF anzeigen
+208,78,10.03.2022 09:37,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3848-78,,-2.15 €, PDF anzeigen
+209,78,10.03.2022 09:37,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3848-78,,-2.15 €, PDF anzeigen
+210,79,09.03.2022 13:04,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2452-554,,-2.60 €, PDF anzeigen
+211,79,09.03.2022 13:04,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2452-554,,-2.60 €, PDF anzeigen
+212,80,09.03.2022 13:04,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Karte,61015-2452-555,,20.00 €,
+213,81,09.03.2022 09:31,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3847-57,,-4.55 €, PDF anzeigen
+214,81,09.03.2022 09:31,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3847-57,,-4.55 €, PDF anzeigen
+215,81,09.03.2022 09:31,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3847-57,,-4.55 €, PDF anzeigen
+216,81,09.03.2022 09:31,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3847-57,,-4.55 €, PDF anzeigen
+217,81,09.03.2022 09:31,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3847-57,,-4.55 €, PDF anzeigen
+218,81,09.03.2022 09:31,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3847-57,,-4.55 €, PDF anzeigen
+219,82,08.03.2022 09:35,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3846-76,,-4.55 €, PDF anzeigen
+220,82,08.03.2022 09:35,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3846-76,,-4.55 €, PDF anzeigen
+221,82,08.03.2022 09:35,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3846-76,,-4.55 €, PDF anzeigen
+222,82,08.03.2022 09:35,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3846-76,,-4.55 €, PDF anzeigen
+223,82,08.03.2022 09:35,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3846-76,,-4.55 €, PDF anzeigen
+224,82,08.03.2022 09:35,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3846-76,,-4.55 €, PDF anzeigen
+225,83,07.03.2022 13:43,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3845-605,,-1.20 €, PDF anzeigen
+226,83,07.03.2022 13:43,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3845-605,,-1.20 €, PDF anzeigen
+227,83,07.03.2022 13:43,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3845-605,,-1.20 €, PDF anzeigen
+228,84,07.03.2022 13:01,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3451-431,,-4.40 €, PDF anzeigen
+229,84,07.03.2022 13:01,Pommes Frites Mensa,2,1.20 €,,2.40 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3451-431,,-4.40 €, PDF anzeigen
+230,85,07.03.2022 09:36,Vegane Apfeltasche,1,1.30 €,,1.30 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3845-78,,-1.30 €, PDF anzeigen
+231,86,04.03.2022 12:09,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3087-62,,-2.90 €, PDF anzeigen
+232,86,04.03.2022 12:09,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3087-62,,-2.90 €, PDF anzeigen
+233,87,04.03.2022 12:08,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Karte,61001-3087-63,,20.00 €,
+234,88,04.03.2022 12:08,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3087-61,,-2.90 €, PDF anzeigen
+235,88,04.03.2022 12:08,Gut und günstig Salat,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3087-61,,-2.90 €, PDF anzeigen
+236,89,04.03.2022 09:36,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3844-78,,-2.00 €, PDF anzeigen
+237,89,04.03.2022 09:36,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3844-78,,-2.00 €, PDF anzeigen
+238,89,04.03.2022 09:36,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3844-78,,-2.00 €, PDF anzeigen
+239,89,04.03.2022 09:36,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3844-78,,-2.00 €, PDF anzeigen
+240,90,03.03.2022 13:17,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3449-572,,-3.40 €, PDF anzeigen
+241,90,03.03.2022 13:17,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3449-572,,-3.40 €, PDF anzeigen
+242,90,03.03.2022 13:17,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3449-572,,-3.40 €, PDF anzeigen
+243,91,03.03.2022 09:37,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3843-80,,-4.55 €, PDF anzeigen
+244,91,03.03.2022 09:37,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3843-80,,-4.55 €, PDF anzeigen
+245,91,03.03.2022 09:37,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3843-80,,-4.55 €, PDF anzeigen
+246,91,03.03.2022 09:37,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3843-80,,-4.55 €, PDF anzeigen
+247,91,03.03.2022 09:37,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3843-80,,-4.55 €, PDF anzeigen
+248,91,03.03.2022 09:37,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3843-80,,-4.55 €, PDF anzeigen
+249,92,25.02.2022 13:11,"Tagesgericht 2,90 € VEGAN",1,2.90 €,,2.90 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3082-164,,-4.50 €, PDF anzeigen
+250,92,25.02.2022 13:11,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3082-164,,-4.50 €, PDF anzeigen
+251,93,25.02.2022 09:38,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3839-80,,-3.35 €, PDF anzeigen
+252,93,25.02.2022 09:38,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3839-80,,-3.35 €, PDF anzeigen
+253,93,25.02.2022 09:38,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3839-80,,-3.35 €, PDF anzeigen
+254,93,25.02.2022 09:38,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3839-80,,-3.35 €, PDF anzeigen
+255,93,25.02.2022 09:38,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3839-80,,-3.35 €, PDF anzeigen
+256,93,25.02.2022 09:38,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3839-80,,-3.35 €, PDF anzeigen
+257,94,25.02.2022 09:38,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3839-81,,20.00 €,
+258,95,22.02.2022 13:26,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3442-480,,-3.20 €, PDF anzeigen
+259,95,22.02.2022 13:26,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3442-480,,-3.20 €, PDF anzeigen
+260,96,21.02.2022 09:36,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3835-69,,-2.25 €, PDF anzeigen
+261,96,21.02.2022 09:36,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3835-69,,-2.25 €, PDF anzeigen
+262,96,21.02.2022 09:36,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3835-69,,-2.25 €, PDF anzeigen
+263,97,18.02.2022 13:44,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3834-500,,-2.55 €, PDF anzeigen
+264,97,18.02.2022 13:44,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3834-500,,-2.55 €, PDF anzeigen
+265,97,18.02.2022 13:44,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3834-500,,-2.55 €, PDF anzeigen
+266,97,18.02.2022 13:44,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3834-500,,-2.55 €, PDF anzeigen
+267,97,18.02.2022 13:44,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3834-500,,-2.55 €, PDF anzeigen
+268,98,18.02.2022 13:03,"Tagesgericht 3,15 € VEGAN",1,3.15 €,,3.15 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3077-160,,-4.75 €, PDF anzeigen
+269,98,18.02.2022 13:03,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3077-160,,-4.75 €, PDF anzeigen
+270,99,17.02.2022 13:44,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-546,,-1.20 €, PDF anzeigen
+271,99,17.02.2022 13:44,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-546,,-1.20 €, PDF anzeigen
+272,99,17.02.2022 13:44,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-546,,-1.20 €, PDF anzeigen
+273,100,17.02.2022 13:06,"Tagesgericht 3,15 €",2,3.15 €,,6.30 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3076-511,,-7.10 €, PDF anzeigen
+274,100,17.02.2022 13:06,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3076-511,,-7.10 €, PDF anzeigen
+275,101,17.02.2022 13:06,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Karte,61001-3076-512,,20.00 €,
+276,102,17.02.2022 09:46,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-84,,-2.00 €, PDF anzeigen
+277,102,17.02.2022 09:46,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-84,,-2.00 €, PDF anzeigen
+278,102,17.02.2022 09:46,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-84,,-2.00 €, PDF anzeigen
+279,102,17.02.2022 09:46,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3833-84,,-2.00 €, PDF anzeigen
+280,103,16.02.2022 13:58,"Pfand - 0,15 €",1,-0.15 €,,-0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-620,,-1.30 €, PDF anzeigen
+281,103,16.02.2022 13:58,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-620,,-1.30 €, PDF anzeigen
+282,103,16.02.2022 13:58,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-620,,-1.30 €, PDF anzeigen
+283,104,16.02.2022 13:29,"Kartoffeln/Reis 0,75 €",2,0.75 €,,1.50 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2554-378,,-2.30 €, PDF anzeigen
+284,104,16.02.2022 13:29,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2554-378,,-2.30 €, PDF anzeigen
+285,105,16.02.2022 13:10,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2437-665,,-2.60 €, PDF anzeigen
+286,105,16.02.2022 13:10,Gut und günstig Dessert,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2437-665,,-2.60 €, PDF anzeigen
+287,106,16.02.2022 09:46,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-80,,-3.60 €, PDF anzeigen
+288,106,16.02.2022 09:46,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-80,,-3.60 €, PDF anzeigen
+289,106,16.02.2022 09:46,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-80,,-3.60 €, PDF anzeigen
+290,106,16.02.2022 09:46,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-80,,-3.60 €, PDF anzeigen
+291,106,16.02.2022 09:46,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3832-80,,-3.60 €, PDF anzeigen
+292,107,15.02.2022 13:11,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3437-413,,-3.40 €, PDF anzeigen
+293,107,15.02.2022 13:11,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3437-413,,-3.40 €, PDF anzeigen
+294,107,15.02.2022 13:11,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3437-413,,-3.40 €, PDF anzeigen
+295,108,15.02.2022 09:38,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3831-91,,-5.20 €, PDF anzeigen
+296,108,15.02.2022 09:38,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3831-91,,-5.20 €, PDF anzeigen
+297,108,15.02.2022 09:38,"Belegte Brötchen 2,40 €",1,2.40 €,,2.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3831-91,,-5.20 €, PDF anzeigen
+298,108,15.02.2022 09:38,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3831-91,,-5.20 €, PDF anzeigen
+299,108,15.02.2022 09:38,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3831-91,,-5.20 €, PDF anzeigen
+300,109,15.02.2022 09:38,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3831-92,,20.00 €,
+301,110,14.02.2022 13:42,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3830-540,,-4.10 €, PDF anzeigen
+302,110,14.02.2022 13:42,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3830-540,,-4.10 €, PDF anzeigen
+303,110,14.02.2022 13:42,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3830-540,,-4.10 €, PDF anzeigen
+304,110,14.02.2022 13:42,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3830-540,,-4.10 €, PDF anzeigen
+305,110,14.02.2022 13:42,Vegane Kirschtasche TK,1,1.30 €,,1.30 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3830-540,,-4.10 €, PDF anzeigen
+306,111,14.02.2022 12:57,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3073-228,,-7.90 €, PDF anzeigen
+307,111,14.02.2022 12:57,"Tagesgericht 3,15 € VEGAN",2,3.15 €,,6.30 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3073-228,,-7.90 €, PDF anzeigen
+308,111,14.02.2022 12:57,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3073-228,,-7.90 €, PDF anzeigen
+309,112,11.02.2022 13:53,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-577,,-2.80 €, PDF anzeigen
+310,112,11.02.2022 13:53,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-577,,-2.80 €, PDF anzeigen
+311,112,11.02.2022 13:53,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-577,,-2.80 €, PDF anzeigen
+312,112,11.02.2022 13:53,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-577,,-2.80 €, PDF anzeigen
+313,113,11.02.2022 13:14,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2551-488,,-1.75 €, PDF anzeigen
+314,113,11.02.2022 13:14,"Pommes Frites/Spätzle 0,95 €",1,0.95 €,,0.95 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2551-488,,-1.75 €, PDF anzeigen
+315,114,11.02.2022 13:14,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Karte,61003-2551-489,,20.00 €,
+316,115,11.02.2022 13:07,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3435-518,,-3.20 €, PDF anzeigen
+317,115,11.02.2022 13:07,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3435-518,,-3.20 €, PDF anzeigen
+318,116,11.02.2022 09:37,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-70,,-3.35 €, PDF anzeigen
+319,116,11.02.2022 09:37,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-70,,-3.35 €, PDF anzeigen
+320,116,11.02.2022 09:37,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3829-70,,-3.35 €, PDF anzeigen
+321,117,10.02.2022 13:25,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2550-434,,-1.75 €, PDF anzeigen
+322,117,10.02.2022 13:25,"Dessert 0,95 €",1,0.95 €,,0.95 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2550-434,,-1.75 €, PDF anzeigen
+323,118,10.02.2022 13:03,"Pizza VEGAN 3,95 €",1,3.95 €,,3.95 €,Pizzawerk,61017 Pizzawerk,Verkauf,61017-992-169,,-3.95 €, PDF anzeigen
+324,119,09.02.2022 12:53,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2432-659,,-2.60 €, PDF anzeigen
+325,119,09.02.2022 12:53,Gut und günstig Obst,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2432-659,,-2.60 €, PDF anzeigen
+326,120,09.02.2022 09:51,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3827-98,,-2.80 €, PDF anzeigen
+327,120,09.02.2022 09:51,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3827-98,,-2.80 €, PDF anzeigen
+328,120,09.02.2022 09:51,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3827-98,,-2.80 €, PDF anzeigen
+329,120,09.02.2022 09:51,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3827-98,,-2.80 €, PDF anzeigen
+330,121,08.02.2022 12:52,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3432-434,,-3.40 €, PDF anzeigen
+331,121,08.02.2022 12:52,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3432-434,,-3.40 €, PDF anzeigen
+332,121,08.02.2022 12:52,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3432-434,,-3.40 €, PDF anzeigen
+333,122,08.02.2022 12:52,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3432-435,,20.00 €,
+334,123,08.02.2022 09:59,Bio Kaffee Creme/Cup to go,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3826-118,,-1.45 €, PDF anzeigen
+335,123,08.02.2022 09:59,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3826-118,,-1.45 €, PDF anzeigen
+336,124,08.02.2022 09:38,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3826-82,,-3.75 €, PDF anzeigen
+337,124,08.02.2022 09:38,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3826-82,,-3.75 €, PDF anzeigen
+338,124,08.02.2022 09:38,Wrap Vegan,1,2.40 €,,2.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3826-82,,-3.75 €, PDF anzeigen
+339,125,07.02.2022 12:40,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3068-107,,-4.75 €, PDF anzeigen
+340,125,07.02.2022 12:40,"Tagesgericht 3,15 € VEGAN",1,3.15 €,,3.15 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3068-107,,-4.75 €, PDF anzeigen
+341,126,07.02.2022 09:43,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3825-79,,-2.75 €, PDF anzeigen
+342,126,07.02.2022 09:43,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3825-79,,-2.75 €, PDF anzeigen
+343,126,07.02.2022 09:43,Bio Milchkaffee/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3825-79,,-2.75 €, PDF anzeigen
+344,126,07.02.2022 09:43,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3825-79,,-2.75 €, PDF anzeigen
+345,126,07.02.2022 09:43,Eigener Becher,1,-0.25 €,,-0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3825-79,,-2.75 €, PDF anzeigen
+346,127,04.02.2022 12:43,"Kartoffeln/Reis 0,75 €",2,0.75 €,,1.50 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2546-386,,-3.90 €, PDF anzeigen
+347,127,04.02.2022 12:43,"Gemüsebeilage 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2546-386,,-3.90 €, PDF anzeigen
+348,127,04.02.2022 12:43,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2546-386,,-3.90 €, PDF anzeigen
+349,128,04.02.2022 12:43,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Karte,61003-2546-387,,20.00 €,
+350,129,04.02.2022 09:43,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3824-69,,-3.50 €, PDF anzeigen
+351,129,04.02.2022 09:43,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3824-69,,-3.50 €, PDF anzeigen
+352,129,04.02.2022 09:43,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3824-69,,-3.50 €, PDF anzeigen
+353,129,04.02.2022 09:43,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3824-69,,-3.50 €, PDF anzeigen
+354,129,04.02.2022 09:43,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3824-69,,-3.50 €, PDF anzeigen
+355,130,04.02.2022 09:38,Obst,1,0.60 €,,0.60 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3824-60,,-0.60 €, PDF anzeigen
+356,131,03.02.2022 14:07,Studentenfutter,1,0.95 €,,0.95 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3823-659,,-2.60 €, PDF anzeigen
+357,131,03.02.2022 14:07,Bio Milchkaffee/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3823-659,,-2.60 €, PDF anzeigen
+358,131,03.02.2022 14:07,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3823-659,,-2.60 €, PDF anzeigen
+359,132,03.02.2022 11:44,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3429-149,,-3.40 €, PDF anzeigen
+360,132,03.02.2022 11:44,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3429-149,,-3.40 €, PDF anzeigen
+361,132,03.02.2022 11:44,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3429-149,,-3.40 €, PDF anzeigen
+362,133,02.02.2022 13:28,Studentenfutter,1,0.95 €,,0.95 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-517,,-2.60 €, PDF anzeigen
+363,133,02.02.2022 13:28,Bio Cappuccino/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-517,,-2.60 €, PDF anzeigen
+364,133,02.02.2022 13:28,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-517,,-2.60 €, PDF anzeigen
+365,134,02.02.2022 12:47,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2427-653,,-2.60 €, PDF anzeigen
+366,134,02.02.2022 12:47,Gut und günstig Obst,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2427-653,,-2.60 €, PDF anzeigen
+367,135,02.02.2022 09:38,Bio Milchkaffee/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-65,,-5.00 €, PDF anzeigen
+368,135,02.02.2022 09:38,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-65,,-5.00 €, PDF anzeigen
+369,135,02.02.2022 09:38,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-65,,-5.00 €, PDF anzeigen
+370,135,02.02.2022 09:38,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-65,,-5.00 €, PDF anzeigen
+371,135,02.02.2022 09:38,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3822-65,,-5.00 €, PDF anzeigen
+372,136,02.02.2022 09:38,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3822-66,,20.00 €,
+373,137,01.02.2022 12:42,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3427-400,,-3.40 €, PDF anzeigen
+374,137,01.02.2022 12:42,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3427-400,,-3.40 €, PDF anzeigen
+375,137,01.02.2022 12:42,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3427-400,,-3.40 €, PDF anzeigen
+376,138,01.02.2022 09:46,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3821-82,,-3.35 €, PDF anzeigen
+377,138,01.02.2022 09:46,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3821-82,,-3.35 €, PDF anzeigen
+378,138,01.02.2022 09:46,"Belegte Brötchen 2,00 €",1,2.00 €,,2.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3821-82,,-3.35 €, PDF anzeigen
+379,139,28.01.2022 12:34,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3425-366,,-4.40 €, PDF anzeigen
+380,139,28.01.2022 12:34,Pommes Frites Mensa,2,1.20 €,,2.40 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3425-366,,-4.40 €, PDF anzeigen
+381,140,26.01.2022 13:00,"Pizza VEGAN 4,35 €",1,4.35 €,,4.35 €,Pizzawerk,61017 Pizzawerk,Verkauf,61017-981-240,,-8.30 €, PDF anzeigen
+382,140,26.01.2022 13:00,"Pizza VEGAN 3,95 €",1,3.95 €,,3.95 €,Pizzawerk,61017 Pizzawerk,Verkauf,61017-981-240,,-8.30 €, PDF anzeigen
+383,141,26.01.2022 09:54,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3817-102,,-1.35 €, PDF anzeigen
+384,141,26.01.2022 09:54,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3817-102,,-1.35 €, PDF anzeigen
+385,142,26.01.2022 09:54,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3817-103,,20.00 €,
+386,143,25.01.2022 13:37,Bio Cappuccino/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3816-494,,-3.00 €, PDF anzeigen
+387,143,25.01.2022 13:37,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3816-494,,-3.00 €, PDF anzeigen
+388,143,25.01.2022 13:37,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3816-494,,-3.00 €, PDF anzeigen
+389,143,25.01.2022 13:37,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3816-494,,-3.00 €, PDF anzeigen
+390,144,25.01.2022 12:46,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3422-361,,-3.40 €, PDF anzeigen
+391,144,25.01.2022 12:46,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3422-361,,-3.40 €, PDF anzeigen
+392,144,25.01.2022 12:46,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3422-361,,-3.40 €, PDF anzeigen
+393,145,24.01.2022 12:45,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3058-205,,-4.75 €, PDF anzeigen
+394,145,24.01.2022 12:45,"Tagesgericht 3,15 € VEGAN",1,3.15 €,,3.15 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3058-205,,-4.75 €, PDF anzeigen
+395,146,24.01.2022 09:51,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3815-84,,-1.35 €, PDF anzeigen
+396,146,24.01.2022 09:51,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3815-84,,-1.35 €, PDF anzeigen
+397,147,21.01.2022 12:09,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3420-300,,-3.40 €, PDF anzeigen
+398,147,21.01.2022 12:09,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3420-300,,-3.40 €, PDF anzeigen
+399,147,21.01.2022 12:09,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3420-300,,-3.40 €, PDF anzeigen
+400,148,21.01.2022 09:42,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3814-72,,-3.80 €, PDF anzeigen
+401,148,21.01.2022 09:42,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3814-72,,-3.80 €, PDF anzeigen
+402,148,21.01.2022 09:42,Laugenbrezel,1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3814-72,,-3.80 €, PDF anzeigen
+403,148,21.01.2022 09:42,Bio Cappuccino/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3814-72,,-3.80 €, PDF anzeigen
+404,148,21.01.2022 09:42,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3814-72,,-3.80 €, PDF anzeigen
+405,149,21.01.2022 09:42,Aufwertung,1,20.00 €,,20.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Karte,61012-3814-73,,20.00 €,
+406,150,20.01.2022 12:41,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3056-221,,-4.75 €, PDF anzeigen
+407,150,20.01.2022 12:41,"Tagesgericht 3,15 € VEGAN",1,3.15 €,,3.15 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3056-221,,-4.75 €, PDF anzeigen
+408,151,19.01.2022 12:10,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3418-286,,-3.40 €, PDF anzeigen
+409,151,19.01.2022 12:10,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3418-286,,-3.40 €, PDF anzeigen
+410,151,19.01.2022 12:10,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3418-286,,-3.40 €, PDF anzeigen
+411,152,19.01.2022 10:01,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3812-97,,0.35 €, PDF anzeigen
+412,152,19.01.2022 10:01,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3812-97,,0.35 €, PDF anzeigen
+413,152,19.01.2022 10:01,Vegane Kirschtasche TK,1,1.30 €,,1.30 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3812-97,,0.35 €, PDF anzeigen
+414,152,19.01.2022 10:01,"Pfand - 1,00 €",3,-1.00 €,,-3.00 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3812-97,,0.35 €, PDF anzeigen
+415,153,17.01.2022 12:39,"Tagesgericht 3,15 € VEGAN",1,3.15 €,,3.15 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3053-169,,-4.75 €, PDF anzeigen
+416,153,17.01.2022 12:39,"Salat 0,80 €",2,0.80 €,,1.60 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3053-169,,-4.75 €, PDF anzeigen
+417,154,17.01.2022 11:22,Vegane Apfeltasche,1,1.30 €,,1.30 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3810-175,,-1.30 €, PDF anzeigen
+418,155,12.01.2022 13:00,Gut und günstig Vegetarisch,1,2.60 €,,2.60 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2412-659,,-2.60 €, PDF anzeigen
+419,155,12.01.2022 13:00,Gut und günstig Obst,1,0.00 €,,0.00 €,Küche Mensa Am Adenauer,61015 M I Linie 6 Mobil,Verkauf,61015-2412-659,,-2.60 €, PDF anzeigen
+420,156,11.01.2022 13:23,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3412-584,,-3.40 €, PDF anzeigen
+421,156,11.01.2022 13:23,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3412-584,,-3.40 €, PDF anzeigen
+422,156,11.01.2022 13:23,"Brot 0,20 € Mensa",1,0.20 €,,0.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3412-584,,-3.40 €, PDF anzeigen
+423,157,11.01.2022 13:23,Aufwertung,1,20.00 €,,20.00 €,Koeriwerk A7,61014 [koeri]werk,Karte,61014-3412-585,,20.00 €,
+424,158,10.01.2022 12:51,"Tagesgericht 3,15 € VEGAN",1,3.15 €,,3.15 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3048-169,,-3.95 €, PDF anzeigen
+425,158,10.01.2022 12:51,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61001 M I Schnitzelbar,Verkauf,61001-3048-169,,-3.95 €, PDF anzeigen
+426,159,21.12.2021 13:49,Bio Cappuccino/Cup to go,1,1.40 €,,1.40 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3798-398,,-1.65 €, PDF anzeigen
+427,159,21.12.2021 13:49,Cup to go,1,0.25 €,,0.25 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3798-398,,-1.65 €, PDF anzeigen
+428,160,21.12.2021 13:07,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3404-479,,-4.40 €, PDF anzeigen
+429,160,21.12.2021 13:07,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3404-479,,-4.40 €, PDF anzeigen
+430,160,21.12.2021 13:07,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3404-479,,-4.40 €, PDF anzeigen
+431,161,20.12.2021 12:21,"Salat 0,80 €",1,0.80 €,,0.80 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2519-108,,-7.10 €, PDF anzeigen
+432,161,20.12.2021 12:21,"Tagesgericht 3,15 €",2,3.15 €,,6.30 €,Küche Mensa Am Adenauer,61003 M I Linie 2 L,Verkauf,61003-2519-108,,-7.10 €, PDF anzeigen
+433,162,14.12.2021 12:54,Club Mate,1,1.20 €,,1.20 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3793-343,,-1.35 €, PDF anzeigen
+434,162,14.12.2021 12:54,"Pfand + 0,15 €",1,0.15 €,,0.15 €,Küche Mensa Am Adenauer,61012 Cafeteria Theke,Verkauf,61012-3793-343,,-1.35 €, PDF anzeigen
+435,163,14.12.2021 12:12,"Pizza VEGAN 3,95 €",1,3.95 €,,3.95 €,Pizzawerk,61017 Pizzawerk,Verkauf,61017-961-88,,-3.95 €, PDF anzeigen
+436,164,14.12.2021 12:12,Aufwertung,1,20.00 €,,20.00 €,Pizzawerk,61017 Pizzawerk,Karte,61017-961-89,,20.00 €,
+437,165,10.12.2021 13:06,Vegane Currywurst mild Mensa,1,2.00 €,,2.00 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3397-515,,-3.20 €, PDF anzeigen
+438,165,10.12.2021 13:06,Pommes Frites Mensa,1,1.20 €,,1.20 €,Koeriwerk A7,61014 [koeri]werk,Verkauf,61014-3397-515,,-3.20 €, PDF anzeigen
+439,166,10.12.2021 13:02,Aufwertung aus Umbuchung,1,11.43 €,,11.43 €,Studentenwerk Campus Süd,44405 Umbuchungskasse CS,Karte,44405-631-10,,11.43 €,
